@@ -1,0 +1,5 @@
+Import-Package=&database#dbdrivers
+
+Export-Package=weblogic.jndi,weblogic.jndi.internal,weblogic.xml.jaxp,weblogic.jdbc.vendor.oracle
+
+dm-need-import-package=&Export-Package

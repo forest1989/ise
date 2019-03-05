@@ -1,0 +1,6 @@
+Import-Package=&database#dbdrivers
+
+Export-Package=org.apache.naming,org.apache.naming.java,org.apache.naming.factory,org.apache.naming.resources,org.apache.naming.resources.jndi
+
+dm-need-import-package=&Export-Package,org.apache.commons.dbcp
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weblogic-web-app xmlns="http://www.bea.com/ns/weblogic/90">
+	<context-root>ise</context-root>
+
+	<resource-description>
+		<res-ref-name>uap</res-ref-name>
+		<jndi-name>uap</jndi-name>
+	</resource-description>
+	
+	<!-- 
+	<session-descriptor> 
+		<persistent-store-type>replicated</persistent-store-type> 
+	</session-descriptor> 
+    -->
+
+</weblogic-web-app>

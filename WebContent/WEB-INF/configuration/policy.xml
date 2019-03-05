@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<platform-dynamic-policy>
+
+	<deploy-mode>develop</deploy-mode>
+
+	<service-candidate-mode>true</service-candidate-mode>
+
+	<default-servlet-extensions>/rest/*</default-servlet-extensions>
+	
+	<web>
+		<app-resource-cache maxlength="-1" >-1</app-resource-cache>
+		<url-first-cache>-1</url-first-cache>
+		<black-url-cache-mode>false</black-url-cache-mode>
+	</web>
+     
+    <module-repository id="workspace" path="E:\SGCC\workspace">
+        <module>exam</module>
+    </module-repository>
+	
+</platform-dynamic-policy>

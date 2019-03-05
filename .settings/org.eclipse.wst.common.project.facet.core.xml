@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="Tomcat 8"/>
+  <fixed facet="java"/>
+  <fixed facet="wst.jsdt.web"/>
+  <fixed facet="jst.web"/>
+  <fixed facet="com.sgcc.uap.ide.client.project.ext.files"/>
+  <fixed facet="com.sgcc.uap.ide.client.project.dbinfo"/>
+  <fixed facet="com.sgcc.uap.ide.client.project.core"/>
+  <installed facet="java" version="1.5"/>
+  <installed facet="jst.web" version="2.3"/>
+  <installed facet="com.sgcc.uap.ide.client.project.core" version="3.0"/>
+  <installed facet="com.sgcc.uap.ide.client.project.ext.files" version="3.0"/>
+  <installed facet="com.sgcc.uap.ide.client.project.dbinfo" version="3.0"/>
+  <installed facet="wst.jsdt.web" version="1.0"/>
+</faceted-project>
